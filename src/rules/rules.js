@@ -14,7 +14,7 @@ module.exports = {
     }],
     'no-bitwise': 'off',
     'no-plusplus': 'off',
-    'no-console': 'warn',
+    'no-console': 'off',
     'no-void': ['error', {
       'allowAsStatement': true,
     }],
