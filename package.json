@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/descartesBot/eslint-config-descartes.git"
   },
-  "author": "Nathaan, Shushi",
+  "author": "Descartes Team",
   "license": "MIT",
   "scripts": {
     "lint": "eslint ./"
@@ -14,7 +14,8 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.17.0",
     "@typescript-eslint/parser": "^5.17.0",
-    "eslint-plugin-import": "^2.25.4"
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-react": "^7.30.0"
   },
   "devDependencies": {
     "eslint": "^8.12.0",
